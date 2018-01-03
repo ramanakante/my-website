@@ -1,3 +1,3 @@
 # my-website
 
-This is awesome read file
+This is awesome website
